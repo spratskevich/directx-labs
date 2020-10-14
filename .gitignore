@@ -1,0 +1,4 @@
+*.zip
+/**/Debug/
+/**/.vs/
+*.user
